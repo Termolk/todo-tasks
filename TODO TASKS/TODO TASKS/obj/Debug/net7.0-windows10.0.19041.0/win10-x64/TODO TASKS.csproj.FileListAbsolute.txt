@@ -6,6 +6,10 @@ C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-win
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TODO TASKS.pdb
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Caching.Memory.dll
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
