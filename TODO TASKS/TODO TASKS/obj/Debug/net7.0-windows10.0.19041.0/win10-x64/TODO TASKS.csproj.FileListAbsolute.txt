@@ -326,3 +326,11 @@ C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-win
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Data.Sqlite.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll

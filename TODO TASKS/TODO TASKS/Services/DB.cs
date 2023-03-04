@@ -8,15 +8,18 @@ using TODO_TASKS.Models;
 
 namespace TODO_TASKS.Services
 {
-    public class TodoContext : DbContext
+    public class DB : DbContext
     {
         public DbSet<TaskItem> TaskItems { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        public DB()
         {
-           // optionsBuilder.UseSqlite();
+            Database.EnsureCreated();
         }
 
-
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlite("Filename=Todo.db");
+        }
     }
 }

@@ -604,16 +604,25 @@
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.28\lib\net6.0\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.data.sqlite.core\7.0.3\lib\net6.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.abstractions\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.abstractions\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.relational\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.memory\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.memory\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Memory.dll">
       <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
@@ -627,6 +636,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.dependencymodel\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.logging\7.0.0\lib\net7.0\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
@@ -694,11 +706,23 @@
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\lib\net6.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.core\2.1.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.4\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.graphics.win2d\1.0.4\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.windowsappsdk\1.2.221209.1\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\TODO TASKS.deps.json">
       <PackagePath>TODO TASKS.deps.json</PackagePath>

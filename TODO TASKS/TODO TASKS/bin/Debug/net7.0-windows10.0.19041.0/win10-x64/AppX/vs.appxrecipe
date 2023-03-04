@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-03-03T17:25:28.679</Modified>
+      <Modified>2023-03-04T07:07:47.685</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-03-03T17:25:28.079</Modified>
+      <Modified>2023-03-04T07:07:46.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TODO TASKS.runtimeconfig.json">
       <PackagePath>TODO TASKS.runtimeconfig.json</PackagePath>
-      <Modified>2023-03-03T17:25:27.907</Modified>
+      <Modified>2023-03-03T18:29:15.623</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\TODO TASKS.dll">
       <PackagePath>TODO TASKS.dll</PackagePath>
-      <Modified>2023-03-03T17:24:24.098</Modified>
+      <Modified>2023-03-04T07:07:43.995</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>TODO TASKS.exe</PackagePath>
-      <Modified>2023-03-03T17:24:24.156</Modified>
+      <Modified>2023-03-04T07:07:44.015</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.netcore.app.runtime.win-x64\7.0.3\runtimes\win-x64\lib\net7.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -806,21 +806,33 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-11-16T01:34:42.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.data.sqlite.core\7.0.3\lib\net6.0\Microsoft.Data.Sqlite.dll">
+      <PackagePath>Microsoft.Data.Sqlite.dll</PackagePath>
+      <Modified>2023-01-13T21:07:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.dll</PackagePath>
-      <Modified>2021-10-23T18:35:52.000</Modified>
+      <Modified>2023-01-13T21:08:06.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.abstractions\6.0.0\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.abstractions\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll">
       <PackagePath>Microsoft.EntityFrameworkCore.Abstractions.dll</PackagePath>
-      <Modified>2021-10-23T18:35:34.000</Modified>
+      <Modified>2023-01-13T21:07:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.abstractions\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Abstractions.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.relational\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Relational.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Relational.dll</PackagePath>
+      <Modified>2023-01-13T21:08:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.entityframeworkcore.sqlite.core\7.0.3\lib\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll">
+      <PackagePath>Microsoft.EntityFrameworkCore.Sqlite.dll</PackagePath>
+      <Modified>2023-01-13T21:09:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.Caching.Abstractions.dll</PackagePath>
-      <Modified>2021-10-22T23:47:46.000</Modified>
+      <Modified>2022-10-18T16:15:18.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.memory\6.0.0\lib\netstandard2.0\Microsoft.Extensions.Caching.Memory.dll">
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.caching.memory\7.0.0\lib\net7.0\Microsoft.Extensions.Caching.Memory.dll">
       <PackagePath>Microsoft.Extensions.Caching.Memory.dll</PackagePath>
-      <Modified>2021-10-22T23:50:16.000</Modified>
+      <Modified>2022-10-18T16:15:48.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.configuration\7.0.0\lib\net7.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -837,6 +849,10 @@
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.dependencyinjection.abstractions\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll">
       <PackagePath>Microsoft.Extensions.DependencyInjection.Abstractions.dll</PackagePath>
       <Modified>2022-10-18T16:15:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.dependencymodel\7.0.0\lib\net7.0\Microsoft.Extensions.DependencyModel.dll">
+      <PackagePath>Microsoft.Extensions.DependencyModel.dll</PackagePath>
+      <Modified>2022-10-18T16:15:30.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.extensions.logging\7.0.0\lib\net7.0\Microsoft.Extensions.Logging.dll">
       <PackagePath>Microsoft.Extensions.Logging.dll</PackagePath>
@@ -926,6 +942,18 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-11-08T19:31:22.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.bundle_e_sqlite3\2.1.4\lib\netstandard2.0\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2023-01-10T20:21:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.core\2.1.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2023-01-10T20:18:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.provider.e_sqlite3\2.1.4\lib\net6.0-windows7.0\SQLitePCLRaw.provider.e_sqlite3.dll">
+      <PackagePath>SQLitePCLRaw.provider.e_sqlite3.dll</PackagePath>
+      <Modified>2023-01-10T20:18:52.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\microsoft.graphics.win2d\1.0.4\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-10-04T20:41:34.000</Modified>
@@ -934,9 +962,13 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-11-08T19:31:24.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sergei\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.1.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2023-01-10T20:13:40.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\TODO TASKS.deps.json">
       <PackagePath>TODO TASKS.deps.json</PackagePath>
-      <Modified>2023-03-03T17:25:28.404</Modified>
+      <Modified>2023-03-04T07:07:47.448</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\7.0.59\ref\net7.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
