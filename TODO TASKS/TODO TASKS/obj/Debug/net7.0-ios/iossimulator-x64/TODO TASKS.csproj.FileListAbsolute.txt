@@ -272,3 +272,11 @@ C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-ios
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-ios\iossimulator-x64\TODO TASKS.pdb
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-ios\iossimulator-x64\TODO TASKS.genruntimeconfig.cache
 C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\obj\Debug\net7.0-ios\iossimulator-x64\ref\TODO TASKS.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Data.Sqlite.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\Microsoft.Extensions.DependencyModel.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.batteries_v2.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.core.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.lib.e_sqlite3.ios.dll
+C:\Учеба\Wasp Academy\todo-tasks\TODO TASKS\TODO TASKS\bin\Debug\net7.0-ios\iossimulator-x64\SQLitePCLRaw.provider.internal.dll

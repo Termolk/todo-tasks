@@ -13,14 +13,7 @@ namespace TODO_TASKS.Models
         public string Description { get; set; }
         public DateTime DueDate { get; set; }
         public bool IsCompleted { get; set; }
-        public Priority PriorityTask { get; set; }
-    }
-
-    public enum Priority
-    {
-        Low,
-        Medium,
-        Hign
+        public string Priority { get; set; }
     }
 
 }

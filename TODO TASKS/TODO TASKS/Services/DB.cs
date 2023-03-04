@@ -19,7 +19,7 @@ namespace TODO_TASKS.Services
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlite("Filename=Todo.db");
+            optionsBuilder.UseSqlite("Filename=Todoo.db");
         }
     }
 }

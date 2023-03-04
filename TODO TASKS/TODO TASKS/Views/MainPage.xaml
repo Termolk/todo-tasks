@@ -8,23 +8,32 @@
     </ContentPage.BindingContext>
 
     <StackLayout>
-        <Entry Placeholder="Введите событие"
-               Text="{Binding CurrentTitle, Mode=TwoWay}" />
-        <Button Text="Добавить"
-                Command="{Binding AddItemCommand}" />
-        <ListView ItemsSource="{Binding Items}"
-                  SelectedItem="{Binding SelectedItem}">
+        <Label Text="Tasks" FontSize="Large" FontAttributes="Bold" Margin="10, 0"/>
+        <Entry Text="{Binding SearchTitle}" Placeholder="Search by title" Margin="10"/>
+        <ListView ItemsSource="{Binding Items}" SelectedItem="{Binding SelectedItem}" Margin="10">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextCell Text="{Binding Title}" />
+                    <ViewCell>
+                        <StackLayout Orientation="Horizontal">
+                            <Label Text="{Binding Title}" FontSize="Medium" VerticalOptions="Center"/>
+                            <Label Text="{Binding Description}" FontSize="Medium" VerticalOptions="Center" Margin="10, 0"/>
+                            <Label Text="{Binding DueDate}" FontSize="Medium" VerticalOptions="Center" Margin="10, 0"/>
+                            <Label Text="{Binding Priority}" FontSize="Medium" VerticalOptions="Center" Margin="10, 0"/>
+                        </StackLayout>
+                    </ViewCell>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
-        <StackLayout Orientation="Horizontal">
-            <Button Text="ОБновить"
-                    Command="{Binding UpdateItemCommand}" />
-            <Button Text="Удалить"
-                    Command="{Binding DeleteItemCommand}" />
+        <StackLayout Orientation="Horizontal" Margin="10">
+            <Entry Text="{Binding CurrentTitle}" Placeholder="Title" VerticalOptions="CenterAndExpand" Margin="0, 0, 10, 0"/>
+            <Entry Text="{Binding CurrentDescription}" Placeholder="Description" VerticalOptions="CenterAndExpand" Margin="0, 0, 10, 0"/>
+            <DatePicker Date="{Binding CurrentDueDate}" VerticalOptions="CenterAndExpand" Margin="0, 0, 10, 0"/>
+            <Picker ItemsSource="{Binding Priorities}" SelectedItem="{Binding CurrentPriority}" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Add" Command="{Binding AddItemCommand}" VerticalOptions="CenterAndExpand"/>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal" Margin="10">
+            <Button Text="Update" Command="{Binding UpdateItemCommand}" VerticalOptions="CenterAndExpand"/>
+            <Button Text="Delete" Command="{Binding DeleteItemCommand}" VerticalOptions="CenterAndExpand"/>
         </StackLayout>
     </StackLayout>
 
